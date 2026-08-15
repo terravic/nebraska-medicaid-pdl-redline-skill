@@ -1,0 +1,9 @@
+Page Number,Drug Name,Reason Code / Suffix,Column Category
+2,buprenorphine PATCH,QL,Preferred Agents
+2,tapentadol SOLN,NR,Non-Preferred Agents
+2,LIPFENDRA (enlicitide) TAB,"NR, QL",Non-Preferred Agents
+2,ALBENZA (albendazole),,Non-Preferred Agents
+3,AWIQLI (insulin icodec-abae) FLEXTOUCH PEN,NR,Non-Preferred Agents
+3,LASOLEX (clotrimazole) SOLN (OTC),NR,Non-Preferred Agents
+3,MICOCLEAR (clotrimazole) CREAM,NR,Non-Preferred Agents
+3,methylphenidate ER ODT (generic COTEMPLA XR),"AL, NR, QL",Non-Preferred Agents
