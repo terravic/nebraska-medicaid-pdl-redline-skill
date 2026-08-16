@@ -2,6 +2,10 @@
 
 A specialized tool and AI Agent Skill for parsing the Nebraska DHHS Preferred Drug List (PDL) PDF. It automatically identifies red-text drug additions and status changes, isolates superscript suffix codes (`NR`, `CL`, `QL`, `AL`), maps entries into `Preferred Agents` vs. `Non-Preferred Agents`, and exports structured CSV / Excel tables.
 
+<p align="center">
+  <img src="./assets/skill_in_action.jpg" alt="Nebraska Medicaid PDL Redline Skill in Action" width="100%" />
+</p>
+
 ---
 
 ## Privacy & Synthetic Data Statement
@@ -67,6 +71,9 @@ The agent will automatically generate a clean, structured table with the followi
 ├── SKILL.md                          # Skill definition & runbook for AI agents
 ├── README.md                         # Project documentation & non-technical guide
 ├── requirements.txt                  # Python dependencies
+├── assets/
+│   ├── skill_in_action.jpg           # Visual demonstration of the skill in action
+│   └── skill_pipeline_architecture.jpg # End-to-end skill architecture diagram
 ├── scripts/
 │   ├── extract_redline_pdl.py        # Core extraction engine & CLI
 │   ├── generate_sample_pdf.py        # Mock sample PDF generator
